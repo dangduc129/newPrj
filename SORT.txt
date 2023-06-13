@@ -1,0 +1,14 @@
+SORT:
+*Not efficient: O(n^2)
+-bubble
+-selection 
+-interchange
+-insertion 
+
+*Efficient: O(nlogn)
+-quick O(n) if dep nhat ;O(n^2) if xau nhat
+-merge O(nlogn)
+-heap O(nlogn)
+-Shell 
+
+*Radix sort (postman): O(m*n)
